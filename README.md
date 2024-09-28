@@ -11,12 +11,6 @@
 
 ## Installation
 
-### Prérequis
-
-```bash
-  pip install -r requirements.txt
-```
-
 ### Téléchargement du code
 
 Clonez le dépôt GitHub :
@@ -24,6 +18,12 @@ Clonez le dépôt GitHub :
 ```bash
 git clone https://github.com/IbnWalid/DorkSearcher.git
 cd DorkSearcher
+```
+
+### Prérequis
+
+```bash
+  pip install -r requirements.txt
 ```
 
 ### Utilisations
